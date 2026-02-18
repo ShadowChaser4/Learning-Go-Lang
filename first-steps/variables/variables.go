@@ -13,6 +13,7 @@ func main() {
 	DemoPointer()
 	DemoInterface()
 	DemoChannel()
+	DemoComplex()
 
 	name := "John"
 	// taking input from user
